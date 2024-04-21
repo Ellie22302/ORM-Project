@@ -3,8 +3,8 @@ const { Product } = require('../models');
 const productData = [
   {
     product_name: 'Plain T-Shirt',
-    ingredients
-    : 14,
+    price: 14.99,
+    stock: 14,
     category_id: 1,
   },
   {
